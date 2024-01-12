@@ -7,3 +7,5 @@ while a < 1000:
     pyautogui.typewrite('.')
     pyautogui.press('enter')
     a = a+1
+
+#esto es un comentario agregado como prueba
